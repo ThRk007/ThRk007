@@ -6,18 +6,22 @@
 
 Olá, sou **Akard**.
 
-Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"> **Javascript** de 28 anos e um player razoavel de 🎮 **CS2**.
+Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"> **Javascript** e um player razoavel de 🎮 **CS2**.
 
 ---
 
 ### **Meus projetos:**
 - Bots para discord.
 - Sites
+  
+---
 
 ### **Idiomas:**
 - Portugues - Fluente
 - Espanhol - Fluente
 - Ingles - Avançado
+
+---
 
 ### **Curso:**
 - 🔭 Cursando Engenharia de Software 
