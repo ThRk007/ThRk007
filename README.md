@@ -1,7 +1,5 @@
 ### 👋 Hello Word!  <img src="https://i.imgur.com/qfRWQvB.gif" width="2%">
 
-</br>
-
 ---
 
 Olá, sou **Akard**.
